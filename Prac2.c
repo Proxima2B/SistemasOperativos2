@@ -42,7 +42,7 @@ int main(int argc, char* argv[]) {
 	    char instruccion[100];
 	    sprintf(instruccion, "echo 'Blengio Landin Guillermo' >> ./%s/%s", argv[1], argv[2]);
 	    system(instruccion);
-	    sprintf(instruccion, "echo 'Gomez de Segura Gonzalez AAr0n' >> ./%s/%s", argv[1], argv[2]);
+	    sprintf(instruccion, "echo 'Gomez de Segura Gonzalez Aaron' >> ./%s/%s", argv[1], argv[2]);
 	    system(instruccion);
 	    sprintf(instruccion, "echo 'Guerrero Avila Carlos' >> ./%s/%s", argv[1], argv[2]);
 	    system(instruccion);
